@@ -8,7 +8,7 @@ Estou sempre buscando aprender e me atualizar com as últimas tendências e tecn
 Estou ansioso para trazer minhas habilidades e experiência para um novo projeto ou equipe.
 
 ## Para me encontrar:
-![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/caio-ceribeli-497456211?utm)
+[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ceribeli-497456211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Hard Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
