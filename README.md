@@ -1,7 +1,7 @@
 
 # Olá Pessoal!
 
-Sou um estudante de um curso full stack na infinity school. Porém tenho foco no front-end em HTML, CSS e JavaScript.
+Sou um estudante de um curso de programação full stack na Infinity School. Porém tenho foco no front-end em HTML, CSS e JavaScript.
 
 Atualmente, estou fazendo um tecnólogo de análise e Desenvolvimento de Sistemas na Newton Paiva, para utilizar mimha expertise para criar programas personalizados que atendam às necessidades exclusivas de empresas. 
 Estou sempre buscando aprender e me atualizar com as últimas tendências e tecnologias em desenvolvimento web. 
