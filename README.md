@@ -3,7 +3,7 @@
 
 Sou um estudante de um curso de programação full stack na Infinity School. Porém tenho foco no front-end em HTML, CSS e JavaScript.
 
-Atualmente, estou cursando tecnólogo de análise e Desenvolvimento de Sistemas na Newton Paiva, para utilizar minhas habilidades para criar programas personalizados que atendam às necessidades exclusivas das empresas. 
+Atualmente, estou cursando análise e Desenvolvimento de Sistemas na Newton Paiva, para utilizar minhas habilidades para criar programas personalizados que atendam às necessidades exclusivas das empresas. 
 Estou sempre buscando aprender e me atualizar com as últimas tendências e tecnologias em desenvolvimento web. 
 Estou ansioso para trazer minhas habilidades e experiência para um novo projeto ou equipe.
 
